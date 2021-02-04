@@ -7,4 +7,4 @@ Pushed 7 programs to it from the lab
 
 4/2/21
 Created Week_3_Variables folder in Git Hub
-Pushed 2 programs to it from the lab
+Pushed 3 programs to it from the lab
