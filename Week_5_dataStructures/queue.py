@@ -5,9 +5,16 @@
 import random
 
 queue = []
+x = 10
+y = 100
 
-while (len(queue) < 10):
-    queue.append(random.randint(0,101))
+# the next lines are my method:
+#while (len(queue) < x):
+#    queue.append(random.randint(0,y))
+
+# the next lines are Andrew's method
+for n in range(0,x):
+    queue.append(random.randint(0,y))
 
 print ("The queue is: {}".format(queue))
 
