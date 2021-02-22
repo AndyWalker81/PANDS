@@ -68,4 +68,6 @@ for value in numbers:
     print (value, end = ' ')
 
 
-
+22/2/21
+Create Week_5_dataStructures folder in Git Hub
+Push 2 programs to it from the lab
