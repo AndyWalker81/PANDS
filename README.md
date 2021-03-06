@@ -32,7 +32,7 @@ Push 4 programs to Week_4_Flow folder from the lab
 Push final 1 program to Week_4_Flow folder from the lab
 Push collatzList.py to this folder - this is different method for Week 4 task:
 
-'''python
+```python
 # collatz.py
 # Week 4 task
 # A program that asks the user to input any positive integer and outputs the successive values of the following calculation.
@@ -68,7 +68,7 @@ while number != 1:
 for value in numbers:
     print (value, end = ' ')
 
-'''
+```
 
 ### 22/2/21
 Create Week_5_dataStructures folder in Git Hub
@@ -77,6 +77,6 @@ Push 2 programs to it from the lab
 ### 23/2/21
 Push 1 programs Week_5_dataStructures folder from the lab
 
-'''python
+```python
 print ("hello")
-'''
+```
