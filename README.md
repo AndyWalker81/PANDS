@@ -1,34 +1,34 @@
 # PANDS
-Programming and Scripting
+## Programming and Scripting
 
-31/1/21
+### 31/1/21
 Create Week_2 folder in Git Hub
 Push 7 programs to it from the lab 
 
-4/2/21
+### 4/2/21
 Creat Week_3_Variables folder in Git Hub
 Push 3 programs to it from the lab
 
-5/2/21
+### 5/2/21
 Push 3 more programs to Week_3_Variables folder from the lab
 
-7/2/21 
+### 7/2/21 
 Push 4 more programs to Week_3_Variables folder from the lab
 
-8/2/21
+### 8/2/21
 Push final 1 program to Week_3_Variables folder from the lab
 
-12/2/21
+### 12/2/21
 Create Week_4_Flow folder in Git Hub
 Push 2 programs to it from the lab
 
-15/2/21
+### 15/2/21
 Push 4 programs to Week_4_Flow folder from the lab
 
-16/2/21
+### 16/2/21
 Push 4 programs to Week_4_Flow folder from the lab
 
-17/2/21
+### 17/2/21
 Push final 1 program to Week_4_Flow folder from the lab
 Push collatzList.py to this folder - this is different method for Week 4 task:
 
@@ -68,9 +68,9 @@ for value in numbers:
     print (value, end = ' ')
 
 
-22/2/21
+### 22/2/21
 Create Week_5_dataStructures folder in Git Hub
 Push 2 programs to it from the lab
 
-23/2/21
+### 23/2/21
 Push 1 programs Week_5_dataStructures folder from the lab
