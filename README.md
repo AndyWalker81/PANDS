@@ -32,7 +32,7 @@ Push 4 programs to Week_4_Flow folder from the lab
 Push final 1 program to Week_4_Flow folder from the lab
 Push collatzList.py to this folder - this is different method for Week 4 task:
 
-# collatz.py
+'''# collatz.py
 # Week 4 task
 # A program that asks the user to input any positive integer and outputs the successive values of the following calculation.
 # At each step it calculates the next value by taking the current value
@@ -66,7 +66,7 @@ while number != 1:
 # Reference: https://stackoverflow.com/questions/12032214/print-new-output-on-same-line
 for value in numbers:
     print (value, end = ' ')
-
+'''
 
 ### 22/2/21
 Create Week_5_dataStructures folder in Git Hub
