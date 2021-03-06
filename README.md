@@ -67,6 +67,7 @@ while number != 1:
 # Reference: https://stackoverflow.com/questions/12032214/print-new-output-on-same-line
 for value in numbers:
     print (value, end = ' ')
+
 '''
 
 ### 22/2/21
