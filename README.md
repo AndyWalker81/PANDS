@@ -76,3 +76,7 @@ Push 2 programs to it from the lab
 
 ### 23/2/21
 Push 1 programs Week_5_dataStructures folder from the lab
+
+'''python
+print ("hello")
+'''
