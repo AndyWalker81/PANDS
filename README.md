@@ -80,3 +80,6 @@ Push 1 programs Week_5_dataStructures folder from the lab
 ### 7/3/21
 Create Week_7_Files folder in Git Hub
 Push program to it from lab
+
+8/3/212
+Push test programs to Week_7_files
