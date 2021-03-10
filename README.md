@@ -83,3 +83,7 @@ Push program to it from lab
 
 8/3/212
 Push test programs to Week_7_files
+
+10/3/12
+Create Week_8_plotting folder in Git Hub
+Push program to it from lab
